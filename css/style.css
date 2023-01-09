@@ -1,0 +1,90 @@
+.container{
+	width: 1170px;
+	margin: 0 auto;
+}
+.active{
+	color: #ee4036;
+}
+li{
+	display: inline-block;
+	vertical-align: top;
+	width: 100px;
+	padding: 20px;
+	color: #3d58a6;
+}
+body{margin-left: 20px}
+.div1{
+	font-size: 20px;
+	color: #3d58a6;
+	margin-bottom: 20px;
+}
+.my27{
+	font-size: 36px;
+	width: 56px;
+	height: 56px;
+	color: white;
+	background-color: #3d58a6;
+	padding: 8px;
+}
+.img2{
+	display: inline-block;
+	vertical-align: top;
+}
+.p1{
+	display: inline-block;
+	width: 930px;
+	height: 360px;	
+	vertical-align: top;
+	margin-top: 20px;
+
+}
+
+.div2{
+	display: inline-block;
+	width: 3px;
+	height: 28px;
+	background-color: #363e97;
+}
+.fb1{
+	margin-left: 20px;
+}
+.yt{
+	margin-left: 10px;
+}
+.s-1{margin-bottom: 124px}
+h2{
+	font-size: 24px;
+	font-family: 'Roboto', sans-serif;
+	margin-bottom: 32px;
+}
+h3{
+	font-size: 24px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	color: #3D58A6;
+	margin: 20px 0 18px 20px;
+}
+.p5{
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	color: #333333;
+	width: 300px;
+	display: inline-block;
+	vertical-align: top;
+	line-height: 110%;
+}
+.p6{display: inline-block;
+	margin-left: 40px;
+	margin-right: 55px;
+	vertical-align: top;
+	}
+.left-card, .right-card{
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+	display: inline-block;
+	vertical-align: top;
+}
+.left-card{
+	margin-right: 26px;
