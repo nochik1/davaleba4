@@ -88,3 +88,8 @@ h3{
 }
 .left-card{
 	margin-right: 26px;
+}
+.up1{
+	display: inline-block;
+	vertical-align: top;
+}
