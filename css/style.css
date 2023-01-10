@@ -91,5 +91,9 @@ h3{
 }
 .up1{
 	display: inline-block;
-	vertical-align: top;
+	vertical-align: middle;
+}
+nav{
+	display: inline-block;
+	vertical-align: middle;
 }
